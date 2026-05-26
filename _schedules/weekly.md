@@ -23,40 +23,40 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Antimirova Office Hours
-        start: 10:00 AM
-        end: 11:30 AM
-        location: Etcheverry 1165
+      # - name: Antimirova Office Hours
+      #   start: 10:00 AM
+      #   end: 11:30 AM
+      #   location: Etcheverry 1165
   - name: Tuesday
     events:
       - name: Lecture
         start: 10:00 AM
         end: 12:30 PM
-        location: Etcheverry 3113
+        location: Tan 180
       - name: Honein Office Hours
-        start: 1:30 PM
-        end: 2:30 PM
-        location: Etcheverry 6185
+        start: 1:00 PM
+        end: 2:00 PM
+        location: TBD
   - name: Wednesday
     events:
       - name: Discussion
         start: 10:00 AM
         end: 12:30 PM
-        location: Etcheverry 3113
+        location: Tan 180
   - name: Thursday
     events:
       - name: Lecture
         start: 10:00 AM
         end: 12:00 PM
-        location: Etcheverry 3113
+        location: Tan 180
       - name: Honein Office Hours
         start: 12:30 PM
-        end: 2:00 PM
-        location: Etcheverry 6185
+        end: 1:30 PM
+        location: TBD
   - name: Friday
     events:
-      - name: Antimirova Office Hours
-        start: 10:00 AM
-        end: 11:30 AM
-        location: Etcheverry 1165
+      # - name: Antimirova Office Hours
+      #   start: 10:00 AM
+      #   end: 11:30 AM
+      #   location: Etcheverry 1165
 ---

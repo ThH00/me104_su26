@@ -1,8 +1,8 @@
 ---
-name: Ekaterina Antimirova
+name: TBD
 role: Teaching Assistant
-email: ekatant23@berkeley.edu
-photo: Ekaterina.jpeg
+email: tbd@berkeley.edu
+photo: Portrait_Placeholder.png
 meta:
   Office Hours: See [schedule](https://thh00.github.io/me104/schedule/).
 ---

@@ -30,8 +30,8 @@ permalink: pretty
 
 # Navigation
 nav:
-  - title: Announcements
-    url: /announcements/
+  # - title: Announcements
+  #   url: /announcements/
   - title: Calendar
     url: /calendar/
   - title: Syllabus
