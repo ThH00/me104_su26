@@ -17,7 +17,7 @@ title: ME104
 tagline: Undergraduate Dynamics Course Website
 description: University of California at Berkeley
 author: Theresa Honein
-baseurl: '/me104' # the subpath of your site, e.g. /blog
+baseurl: '/me104_su26' # the subpath of your site, e.g. /blog
 url: 'https://thh00.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
