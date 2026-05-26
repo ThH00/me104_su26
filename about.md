@@ -16,26 +16,25 @@ description: >-
 
 ---
 
-We are looking forward to a smooth and productive semester!
-
-Kindly complete the following pre-semester checklist:
-- Read the [syllabus](https://thh00.github.io/me104/about/).
-- Login to Ed discussion.
-- Download the Gradescope app on your phone, create an account, and login. Please let me know before tomorrow’s class if you haven’t received an email instructing you that you were enrolled in Gradescope.
-- Note the exam dates listed on the website homepage. All will be held in-person at the annouced place and time. We will not accomodate remote exams.
-- This class is optimized for in-person, not remote learning.
-- Barring any technical difficulties, lectures will be recorded and posted on my [Youtube channel](https://www.youtube.com/@theresahonein).
-
-
 ## Instructor: Theresa Honein
 - Email: theresa_honein at berkeley.edu
-- Lecture: Tu 10:00 am - 12:29 pm and Th 10:00 am - 11:59 am in Etcheverry 3113
-- Office Hours: Tu 1:30-2:30 pm, Th 12:30-2:00 pm in Etcheverry 6185 or by appointment
+- Lecture: Tu 10:00 am - 12:29 pm and Th 10:00 am - 11:59 am in Tan 180
+- Office Hours: Tu 1-2 pm, Th 12:30-1:30 pm in TBD or by appointment
 
-## Teaching Assistant: Ekaterina Aleksandrovna Antimirova
-- Email: ekatant23 at berkeley.edu
-- Discussion: We 10:00 am - 12:29 pm in Etcheverry 3113
-- Office Hours: M/F 10:00 am - 11:29 am in Etcheverry 1165
+## Teaching Assistant: TBD
+- Email: TBD at berkeley.edu
+- Discussion: We 10:00 am - 12:29 pm in Tan 180
+- Office Hours: TBD
+
+## Class Recordings
+- This class is optimized for in-person, not remote learning.
+- Barring any technical difficulties, lectures will be recorded and posted on my [Youtube channel](https://www.youtube.com/@theresahonein).
+- Note the exam dates listed on the website homepage. All will be held in-person at the annouced place and time. We will not accomodate remote exams.
+
+## Gradescope
+- All homework and quizzes will be submitted and graded through Gradescope. 
+- Download the Gradescope app on your phone, create an account, and login. Please let me know before tomorrow’s class if you haven’t received an email instructing you that you were enrolled in Gradescope.
+- Make sure to always assign questions and pages properly to Gradescope (see [tutorial](https://www.youtube.com/watch?v=juxJd9r78Lc)). If you fail to do so might result in lost grades.
 
 ## Ed Discussion
 For homework advice or conceptual questions, please use EdDiscussion. Class group chats besides Ed are not allowed. If you have non-conceptional or non-homework/exam related questions, please use email.
@@ -53,7 +52,7 @@ need to answer them multiple times.
 4. ed is not OH. 5 minute-test.\
 If you think your questions may take more than 5 minutes to answer, please come to oﬃce hours.
 5. ed is not for pre-grading.\
-Please do not use Piazza as a medium to ask instructors to check your homework in advance. We simply cannot check every
+Please do not use ed as a medium to ask instructors to check your homework in advance. We simply cannot check every
 student’s homework through Piazza.
 6. Post a screen shot of any resource referenced.\
 Your question should be self-contained. The responders should not have to scan through PDFs to even figure out what the
@@ -62,20 +61,36 @@ If the answer is yes, post a screen shot of the relevant part.
 
 ## Grading
 
-| Item | Percentage |
-| ---- | ---------- |
-| In class quizzes | 24% |
-| Homework | 6% |
-| Midterm I | 20% |
-| Midterm II | 20% |
-| Final | 30% |
+Each student will receive a final grade based on the option which maximizes their score.
 
-If, at the end of the semester, you submit evaluations for both the instructor and the GSI, we will retain only your 12 highest in-class quiz grades (so that each counted quiz contributes 2% to your final grade). This policy is intended to accommodate any potential absences during the semester. Please use this policy only as a last resort.
+### Option 1
+
+| Item | Percentage |
+|------|------------|
+| In class quizzes* | 20% |
+| Homework | 5% |
+| Midterm 1 | 20% |
+| Midterm 2 | 20% |
+| Final | 35% |
+
+\*The 4 lowest quiz grades will be dropped.
+
+### Option 2
+
+| Item | Percentage |
+|------|------------|
+| In class quizzes | 0% |
+| Homework | 5% |
+| Midterm 1 | 25% |
+| Midterm 2 | 25% |
+| Final | 45% |
+
+If, at the end of the semester, you submit evaluations for both the instructor and the GSI, we will drop your 3 lowest quiz grades. This policy is intended to accommodate any potential absences during the semester. Please use this policy only as a last resort.
 
 In accordance with departmental guidelines, the mean GPA for the course will be approximately 2.9. In-class quiz solutions and exam solutions will be posted on the class website.
 
 ## In class quizzes
-In this class, my goal is for you to get plenty of practice during lectures. To encourage this, each lecture will include either a group or individual assessment.
+In this class, my goal is for you to get plenty of practice during lectures. To encourage this, most lectures will include either a group or individual assessment.
 
 ## Homework
 Each week, you will have one take-home homework assignment that involves some coding. These assignments are designed to help you deeply understand and apply the concepts we cover in class. You’ll submit them on Gradescope by midnight on the due date.
@@ -101,9 +116,6 @@ Problem set problems will be assigned from
 J. L. Meriam, L. G. Kraige, and J. N. Bolton Engineering Mechanics: Dynamics, Ninth Edition, Wiley, New York, 2018.
 
 You can use any version of this textbook as an extra reference. I will post the prompt of the questions you need to solve.
-
-## Lecture Recordings
-I will arrange for the lecture to be recorded. However, the recordings might not be setup by the first week of class.
 
 ## Copyrights
 All the course material, including but not limited to homework sets, homework solutions, quizzes, exams, lecture notes, lecture
