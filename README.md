@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ME104 Dynamics
+title: Summer 2026 ME104 Dynamics
 nav_exclude: true
 permalink: /:path/
 seo:
