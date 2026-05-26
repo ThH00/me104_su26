@@ -29,7 +29,7 @@ description: >-
 ## Class Recordings
 - This class is optimized for in-person, not remote learning.
 - Barring any technical difficulties, lectures will be recorded and posted on my [Youtube channel](https://www.youtube.com/@theresahonein).
-- Note the exam dates listed on the website homepage. All will be held in-person at the annouced place and time. We will not accomodate remote exams.
+- Note the exam dates listed on the website homepage. All will be held in-person at the annouced place and time. We will not accomodate remote exams. 
 
 ## Gradescope
 - All homework and quizzes will be submitted and graded through Gradescope. 
