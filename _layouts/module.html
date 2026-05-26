@@ -1,0 +1,89 @@
+<h2 class="fs-4" id="{{ page.title | slugify }}">{{ page.title }}</h2>
+<div class="module">
+  {% for content_item in page.contents %}
+    <div class="module-day">
+      <div class="module-date">
+        {% assign date = content_item.date | date: "%b %d" %}
+        {{ date }}:
+      </div>
+      <div class="module-content">
+        {% for item in content_item.items %}
+          <div class="module-item">
+            {% case item.type %}
+              {% when 'lecture' %}
+                <span class="label label-blue">LECTURE</span>
+                {% if item.topics %}
+                  {% for topic in item.topics %}
+                    <div class="module-description">
+                      <span class="label label-blue">{{ forloop.index }}.</span>
+                      {{ topic }}
+                    </div>
+                  {% endfor %}
+                {% endif %}
+              {% when 'exercise' %}
+                <span class="label label-yellow">DISCUSSION SECTION</span>
+                {% if item.topics %}
+                  {% for topic in item.topics %}
+                    <div class="module-description">
+                      <span class="label label-yellow">{{ forloop.index }}.</span>
+                      {{ topic }}
+                    </div>
+                  {% endfor %}
+                {% endif %}
+              {% when 'problem_set' %}
+                <span class="label label-green">PROBLEM SET</span>
+                {% if item.title %}
+                  &nbsp;
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                  {% if item.solution_link %}
+                    ,&nbsp;
+                    <a href="{{ item.solution_link }}">Solution</a>
+                  {% endif %}
+                {% endif %}
+              {% when 'homework' %}
+                <span class="label label-red">HOMEWORK</span>
+                {% if item.title %}
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endif %}
+                {% if item.due_date %}
+                  (due {{ item.due_date | date: "%b %d" }})
+                {% endif %}
+              {% when 'exam' %}
+                <span class="label label-red">EXAM</span>
+              {% when 'quiz' %}
+                <span class="label label-red">QUIZ</span>
+                {% if item.title %}
+                  &nbsp;
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                  {% if item.solution_link %}
+                    ,&nbsp;
+                    <a href="{{ item.solution_link }}">Solution</a>
+                  {% endif %}
+                {% endif %}
+              {% when 'reading' %}
+                <span class="label label-purple">READING</span>
+                {% if item.title %}
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endif %}
+              {% when 'exercise_video' %}
+                <span class="label label-pink">EXERCISE VIDEO</span>
+                {% if item.title %}
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endif %}
+              {% when 'lecture_video' %}
+                <span class="label label-orange">LECTURE VIDEO</span>
+                {% if item.title %}
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endif %}
+              {% when 'demo' %}
+                <span class="label label-cyan">DEMO</span>
+                {% if item.title %}
+                  <a href="{{ item.link }}">{{ item.title }}</a>
+                {% endif %}
+            {% endcase %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
