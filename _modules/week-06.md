@@ -53,6 +53,11 @@ contents:
         topics:
           - Rolling and Sliding
           - Instantaneous Center of Rotation
+      - type: quiz
+        title: Midterm II
+        description: Midterm II
+        link: "https://drive.google.com/file/d/1PoptxxFkwPgxgti8o4a-GRid4FVxc99b/view?usp=share_link"
+        solution_link: "https://drive.google.com/file/d/1qlH-nAS531cRvIq30yFaV9ifPYXjksqK/view?usp=sharing"
       - type: problem_set
         title: Set 17 - Rolling and Sliding
         description: Rolling and Sliding

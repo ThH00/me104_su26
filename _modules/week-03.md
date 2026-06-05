@@ -55,9 +55,15 @@ contents:
     items:
       - type: lecture
         topics:
+          - MIDTERM 1
           - Spring force
           - Friction
           - A particle moving on a curve vs. a particle moving on a surface
+      - type: quiz
+        title: Midterm I
+        description: Midterm I
+        # link: "https://drive.google.com/file/d/1PoptxxFkwPgxgti8o4a-GRid4FVxc99b/view?usp=share_link"
+        # solution_link: "https://drive.google.com/file/d/1qlH-nAS531cRvIq30yFaV9ifPYXjksqK/view?usp=sharing"
       - type: problem_set
         title: Set 09 - Linear Springs
         link: "https://drive.google.com/file/d/1zcm9KN42Fokud1WwjCEeEt4B-KT5stpI/view?usp=drivesdk"

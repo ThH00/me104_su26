@@ -41,7 +41,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - MIDTERM I
+          - TBD
       - type: homework
         title: HW 04 - Energy plots for all previous homework
         link: "https://drive.google.com/file/d/1rWui0WEHkADA09vrzDrvqS-DLlC06Zix/view?usp=share_link"

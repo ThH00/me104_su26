@@ -6,11 +6,6 @@ contents:
       - type: lecture
         topics:
           - Moments of Inertia
-      - type: quiz
-        title: Midterm II
-        description: Midterm II
-        link: "https://drive.google.com/file/d/1PoptxxFkwPgxgti8o4a-GRid4FVxc99b/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/1qlH-nAS531cRvIq30yFaV9ifPYXjksqK/view?usp=sharing"
       - type: problem_set
         title: Set 18 - Moments of Inertia
         description: Moments of Inertia
