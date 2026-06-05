@@ -8,6 +8,7 @@ contents:
           - Overview of syllabus and website
           - Dynamics - an overview
           - Vector calculus - a summary
+          - Free body diagrams
           - Velocity, position, acceleration, arc-length
       - type: problem_set
         title: Set 01 - Vector Calculus
@@ -32,12 +33,13 @@ contents:
         link: "https://drive.google.com/file/d/1Ja3--SXbGbXwp9ELbb0WPnhjJjETWmHK/view?usp=share_link"
         solution_link: "https://drive.google.com/file/d/1smciQBL2azdKz9Gl5okRA80f7bLLLH8H/view?usp=share_link"
 
-  # - date: 2026-06-10
-  #   items:
-  #     - type: exercise
-  #       topics:
-  #         - Problems from Set 02 - Units
-  #         - Problems from Set 03 - Rectlinear Motion
+  - date: 2026-06-10
+    items:
+      - type: exercise
+        topics:
+          - Problems from Set 01 - Vectors
+          - Problems from Set 02 - Units
+          - FBDs practice
 
   - date: 2026-06-11
     items:
@@ -45,7 +47,6 @@ contents:
         topics:
           - Rectilinear Motion
           - Balance of Linear Momentum
-          - Solving Differential Equations and Animations in Matlab
       - type: problem_set
         title: Set 03 - Rectlinear Motion
         description: Rectilinear Motion
