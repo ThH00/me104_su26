@@ -1,7 +1,7 @@
 ---
 title: Week 06
 contents:
-  - date: 2025-07-15
+  - date: 2026-07-14
     items:
       - type: lecture
         topics:
@@ -33,20 +33,21 @@ contents:
         link: "https://drive.google.com/file/d/1_6EWX8nkgP1NufdGMUIMXuGhryE22YMb/view?usp=share_link"
         solution_link: "https://drive.google.com/file/d/1ypiwcQYJjEO4eUdlv0UcMNg3vebyR-oq/view?usp=sharing"
 
-  - date: 2025-07-16
-    items:
-      - type: exercise
-        topics:
-          - Midterm II preparation - Energy, collisions, conservation of angular and linear momentum, rigid body kinematics
-      - type: problem_set
-        title: Discussion 06 Notes and Extra Problems for Midterm II
-        description: Energy, collisions, cons. of angular and linear mtm., RBK
-        link: "https://drive.google.com/file/d/1jThS9W5IblEJ7ZUv_HYWMLDy4OIsZvGd/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1HPrYf9rktofdmevKTM6vNjDUhawR9Gww/view?usp=sharing"
-      - type: lecture_video
-        title: Discussion 06 Recording Canvas Link
-        link: "https://bcourses.berkeley.edu/courses/1545207/external_tools/90481"
-  - date: 2025-07-17
+  # - date: 2026-07-16
+  #   items:
+  #     - type: exercise
+  #       topics:
+  #         - Midterm II preparation - Energy, collisions, conservation of angular and linear momentum, rigid body kinematics
+  #     - type: problem_set
+  #       title: Discussion 06 Notes and Extra Problems for Midterm II
+  #       description: Energy, collisions, cons. of angular and linear mtm., RBK
+  #       link: "https://drive.google.com/file/d/1jThS9W5IblEJ7ZUv_HYWMLDy4OIsZvGd/view?usp=sharing"
+  #       solution_link: "https://drive.google.com/file/d/1HPrYf9rktofdmevKTM6vNjDUhawR9Gww/view?usp=sharing"
+  #     - type: lecture_video
+  #       title: Discussion 06 Recording Canvas Link
+  #       link: "https://bcourses.berkeley.edu/courses/1545207/external_tools/90481"
+  
+  - date: 2026-07-16
     items:
       - type: lecture
         topics:

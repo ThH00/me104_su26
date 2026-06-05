@@ -1,7 +1,7 @@
 ---
 title: Week 01
 contents:
-  - date: 2025-06-10
+  - date: 2026-06-09
     items:
       - type: lecture
         topics:
@@ -32,14 +32,14 @@ contents:
         link: "https://drive.google.com/file/d/1Ja3--SXbGbXwp9ELbb0WPnhjJjETWmHK/view?usp=share_link"
         solution_link: "https://drive.google.com/file/d/1smciQBL2azdKz9Gl5okRA80f7bLLLH8H/view?usp=share_link"
 
-  - date: 2025-06-11
-    items:
-      - type: exercise
-        topics:
-          - Problems from Set 02 - Units
-          - Problems from Set 03 - Rectlinear Motion
+  # - date: 2026-06-10
+  #   items:
+  #     - type: exercise
+  #       topics:
+  #         - Problems from Set 02 - Units
+  #         - Problems from Set 03 - Rectlinear Motion
 
-  - date: 2025-06-12
+  - date: 2026-06-11
     items:
       - type: lecture
         topics:

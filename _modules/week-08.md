@@ -1,7 +1,7 @@
 ---
 title: Week 08
 contents:
-  - date: 2025-07-29
+  - date: 2026-07-28
     items:
       - type: lecture
         topics:
@@ -26,20 +26,20 @@ contents:
 
 
 
-  - date: 2025-07-30
-    items:
-      - type: exercise
-        topics:
-          - Rigid body dynamics
-          - Recording can be found in bCourses media for this class
-      - type: problem_set
-        title: Discussion 08 Extra Problems
-        description: Discussion 08 Extra Problems
-        link: "https://drive.google.com/file/d/1TjLyPmIOZe3-FzZSBUetrTKB9M6v-OFV/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1UG7nz-ozu5CzIKJ_66lqHOe3ksRsywHU/view?usp=sharing"
+  # - date: 2025-07-30
+  #   items:
+  #     - type: exercise
+  #       topics:
+  #         - Rigid body dynamics
+  #         - Recording can be found in bCourses media for this class
+  #     - type: problem_set
+  #       title: Discussion 08 Extra Problems
+  #       description: Discussion 08 Extra Problems
+  #       link: "https://drive.google.com/file/d/1TjLyPmIOZe3-FzZSBUetrTKB9M6v-OFV/view?usp=sharing"
+  #       solution_link: "https://drive.google.com/file/d/1UG7nz-ozu5CzIKJ_66lqHOe3ksRsywHU/view?usp=sharing"
         
 
-  - date: 2025-07-31
+  - date: 2026-07-30
     items:
       - type: lecture
         topics:

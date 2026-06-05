@@ -1,7 +1,7 @@
 ---
 title: Week 02
 contents:
-  - date: 2025-06-17
+  - date: 2026-06-16
     items:
       - type: lecture
         topics:
@@ -29,18 +29,18 @@ contents:
         link: "https://drive.google.com/file/d/1nIqeeJAukaGlO6Vx1b_mC5rOSkngak6o/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1QGUGLkEXxAST1_js1yjJm5hiHOmcnOGe/view?usp=sharing"
 
-  - date: 2025-06-18
-    items:
-      - type: exercise
-        topics:
-          - Pulleys 
-          - Motion within slots
-          - Choosing coordinate system
-      - type: problem_set
-        title: Two extra problems on pulleys (covered in class) and straight slots
-        link: "https://drive.google.com/file/d/1Azb_pXk7EQvngUNUb_xS6gER8KWlwaeW/view?usp=sharing"
+  # - date: 2026-06-17
+  #   items:
+  #     - type: exercise
+  #       topics:
+  #         - Pulleys 
+  #         - Motion within slots
+  #         - Choosing coordinate system
+  #     - type: problem_set
+  #       title: Two extra problems on pulleys (covered in class) and straight slots
+  #       link: "https://drive.google.com/file/d/1Azb_pXk7EQvngUNUb_xS6gER8KWlwaeW/view?usp=sharing"
 
-  - date: 2025-06-19
+  - date: 2026-06-18
     items:
       - type: lecture
         topics:

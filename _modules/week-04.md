@@ -1,7 +1,7 @@
 ---
 title: Week 04
 contents:
-  - date: 2025-07-01
+  - date: 2026-06-30
     items:
       - type: lecture
         topics:
@@ -27,17 +27,17 @@ contents:
         description: reading
         link: "https://drive.google.com/file/d/1ZkdqsPzFe2r-aTFFd1BEd3b8L2MqyxHh/view?usp=share_link"
 
-  - date: 2025-07-02
-    items:
-      - type: exercise
-        topics:
-          - Prep for Midterm 1, normal tangential, friction, springs
-      - type: problem_set
-        title: Extra problems
-        link: "https://drive.google.com/file/d/1WaipiMmWddWer_DrAZcLhzDUnNOMbbq6/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1C_fikstDKjVZwX6BM0Y8Xf_ftwCiu4W7/view?usp=sharing"
+  # - date: 2026-07-01
+  #   items:
+  #     - type: exercise
+  #       topics:
+  #         - Prep for Midterm 1, normal tangential, friction, springs
+  #     - type: problem_set
+  #       title: Extra problems
+  #       link: "https://drive.google.com/file/d/1WaipiMmWddWer_DrAZcLhzDUnNOMbbq6/view?usp=sharing"
+  #       solution_link: "https://drive.google.com/file/d/1C_fikstDKjVZwX6BM0Y8Xf_ftwCiu4W7/view?usp=sharing"
 
-  - date: 2025-07-03
+  - date: 2026-07-02
     items:
       - type: lecture
         topics:

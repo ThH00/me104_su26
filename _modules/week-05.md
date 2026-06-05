@@ -1,11 +1,10 @@
 ---
 title: Week 05
 contents:
-  - date: 2025-07-08
+  - date: 2026-07-07
     items:
       - type: lecture
         topics:
-          - NO IN-PERSON LECTURE!
           - Linear impulse and linear momentum
           - Angular impulse and angular momentum
           - Collisions
@@ -59,20 +58,20 @@ contents:
         title: 13. (6 min) Two particles impacting in the plane
         link: "https://youtu.be/4zI-bUmKLKI"
 
-  - date: 2025-07-09
-    items:
-      - type: problem_set
-        title: Extra problems Discussion 5 - Work, energy, momentum, collisions
-        description: Lots of short answer and MC problems, and a longer one 
-        link: "https://drive.google.com/file/d/1nzFQce-ut8R0YhhwMuBcdBfPs5tHsegx/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1nMn9DPh2e_mlsWepsV4TeXxh5RaOtqol/view?usp=sharing"
-      - type: quiz
-        title: Quiz 7
-        description: Quiz 7
-        link: "https://drive.google.com/file/d/19sm9HPe44pRXq3xq1-m-1pFATwBnaJBh/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1B5fiuEizvrKtT0IQ5qWpzqKTQkJdFR7L/view?usp=sharing"
+  # - date: 2026-07-08
+  #   items:
+  #     - type: problem_set
+  #       title: Extra problems Discussion 5 - Work, energy, momentum, collisions
+  #       description: Lots of short answer and MC problems, and a longer one 
+  #       link: "https://drive.google.com/file/d/1nzFQce-ut8R0YhhwMuBcdBfPs5tHsegx/view?usp=sharing"
+  #       solution_link: "https://drive.google.com/file/d/1nMn9DPh2e_mlsWepsV4TeXxh5RaOtqol/view?usp=sharing"
+  #     - type: quiz
+  #       title: Quiz 7
+  #       description: Quiz 7
+  #       link: "https://drive.google.com/file/d/19sm9HPe44pRXq3xq1-m-1pFATwBnaJBh/view?usp=sharing"
+  #       solution_link: "https://drive.google.com/file/d/1B5fiuEizvrKtT0IQ5qWpzqKTQkJdFR7L/view?usp=sharing"
 
-  - date: 2025-07-10
+  - date: 2026-07-09
     items:
       - type: lecture
         topics:

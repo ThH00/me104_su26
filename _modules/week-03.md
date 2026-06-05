@@ -1,7 +1,7 @@
 ---
 title: Week 03
 contents:
-  - date: 2025-06-24
+  - date: 2026-06-23
     items:
       - type: lecture
         topics:
@@ -42,16 +42,16 @@ contents:
         link: "https://drive.google.com/file/d/1lrdG5aq0CPB20apmdMRpqcBzMDbk13CW/view?usp=share_link"
         solution_link: "https://drive.google.com/file/d/1BaiVX8CzEBAW22vnRDqw9VFTKdG0D_8y/view?usp=sharing"
 
-  - date: 2025-06-25
-    items:
-      - type: exercise
-        topics:
-          - Relative motion between translating rigid bodies
-      - type: problem_set
-        title: Extra problems
-        link: "https://drive.google.com/file/d/1cqCmfA4vL1MBHZiMzwvJRSov3JMWXm2w/view?usp=sharing"
+  # - date: 2026-06-24
+  #   items:
+  #     - type: exercise
+  #       topics:
+  #         - Relative motion between translating rigid bodies
+  #     - type: problem_set
+  #       title: Extra problems
+  #       link: "https://drive.google.com/file/d/1cqCmfA4vL1MBHZiMzwvJRSov3JMWXm2w/view?usp=sharing"
 
-  - date: 2025-06-26
+  - date: 2026-06-25
     items:
       - type: lecture
         topics:

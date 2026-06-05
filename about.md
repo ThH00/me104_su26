@@ -92,8 +92,8 @@ In accordance with departmental guidelines, the mean GPA for the course will be 
 ## In class quizzes
 In this class, my goal is for you to get plenty of practice during lectures. To encourage this, most lectures will include either a group or individual assessment.
 
-## Homework
-Each week, you will have one take-home homework assignment that involves some coding. These assignments are designed to help you deeply understand and apply the concepts we cover in class. You’ll submit them on Gradescope by midnight on the due date.
+## Pairwork Homework
+Each week, you will have one take-home homework assignment that involves some coding. These assignments are designed to help you deeply understand and apply the concepts we cover in class. You’ll submit them on Gradescope by midnight on the due date. The homework is to be completed in pairs (groups of two).
 
 ## Problem Sets
 For each concept we cover, I will post a corresponding problem set. We will solve some of these problems in class, some during discussion sessions, and others will have video solutions. The remaining problems you are expected to work through on your own. You are always welcome to ask about any of these problems during office hours or on Ed.
