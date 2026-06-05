@@ -21,8 +21,8 @@ description: >-
 - Lecture: Tu 10:00 am - 12:29 pm and Th 10:00 am - 11:59 am in Tan 180
 - Office Hours: Tu 1-2 pm, Th 12:30-1:30 pm in TBD or by appointment
 
-## Teaching Assistant: TBD
-- Email: TBD at berkeley.edu
+## Teaching Assistant: Meghana Sanjay Rao
+- Email: meghana_sanjay at berkeley.edu
 - Discussion: We 10:00 am - 12:29 pm in Tan 180
 - Office Hours: TBD
 
@@ -73,7 +73,7 @@ Each student will receive a final grade based on the option which maximizes thei
 | Midterm 2 | 20% |
 | Final | 35% |
 
-\*The 4 lowest quiz grades will be dropped.
+\*The 3 lowest quiz grades will be dropped.
 
 ### Option 2
 
