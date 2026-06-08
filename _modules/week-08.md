@@ -10,7 +10,7 @@ contents:
         title: Set 20 - Fixed Point Rotation
         description: Fixed Point Rotation
         link: "https://drive.google.com/file/d/10OQTCzNy8afWTOxPlnSZsEC2p7ICHGr1/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1VdPH8-M7KSt-XLoDgGbXN1Kiwdjy1Tro/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1VdPH8-M7KSt-XLoDgGbXN1Kiwdjy1Tro/view?usp=sharing"
       - type: exercise_video
         title: Problem 06-051
         link: "https://youtu.be/Q7PV2pxBuwc"
@@ -18,7 +18,7 @@ contents:
         title: Quiz 12
         description: Quiz 12
         link: "https://drive.google.com/file/d/1yhSCnb4hKF3fRL0FFcRXWkSW1RKWx6-4/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/16yI2Y_QjkxtJqTjRidDuEVP2rDT2iqQP/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/16yI2Y_QjkxtJqTjRidDuEVP2rDT2iqQP/view?usp=sharing"
       - type: homework
         title: HW 07 - TBD
         link: "https://drive.google.com/file/d/1lduW4aX0pCclXLwqmDBVHaKtyY8OjUGy/view?usp=share_link"
@@ -54,10 +54,10 @@ contents:
         title: Set 21 - General Plane Motion
         description: General Plane Motion
         link: "https://drive.google.com/file/d/1ayuli5QSUEAV-2kXjVYugwh5gOjm66tS/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1EGhpYxv_Q9-e56LDyEyiOJ_fFBZ4mYr8/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1EGhpYxv_Q9-e56LDyEyiOJ_fFBZ4mYr8/view?usp=sharing"
       - type: quiz
         title: Quiz 13
         description: Quiz 13
         link: "https://drive.google.com/file/d/1ElU4iso8JdTsPFWYdpt0qCqRum5UWvO8/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/1kaPgZeSSIMzU8p-Ok_dEulkTdC09T5rT/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1kaPgZeSSIMzU8p-Ok_dEulkTdC09T5rT/view?usp=sharing"
 ---

@@ -12,12 +12,12 @@ contents:
         title: Set 15 - Kinematics of Rigid Bodies
         description: Kinematics of Rigid Bodies
         link: "https://drive.google.com/file/d/1ly3MSTed2wXnHuEySQlLuawF8KSgCQap/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1DYtGU7qQpwb_kMelhRqc25XkwvtMbYQV/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1DYtGU7qQpwb_kMelhRqc25XkwvtMbYQV/view?usp=sharing"
       - type: problem_set
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
         link: "https://drive.google.com/file/d/1HVbTJD8fqiG_8RTUu4BO4BnaaIzT8-1f/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1DT7o3JM29v_CRzUxBSlhVtdLj_6JfjxN/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1DT7o3JM29v_CRzUxBSlhVtdLj_6JfjxN/view?usp=sharing"
       - type: reading
         title: Lecture notes on rigid body kinematics
         description: reading
@@ -70,7 +70,7 @@ contents:
         title: Quiz 10
         description: Quiz 10
         link: "https://drive.google.com/file/d/11Y_pN1rvoL38-ozrkifgvyF-GFE2KXRe/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1dxKkzFiD3zJXxr31iCbWPzcGXMX0Lu-9/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1dxKkzFiD3zJXxr31iCbWPzcGXMX0Lu-9/view?usp=sharing"
       - type: homework
         title: HW 06 - Merry-go-round animation
         link: "https://drive.google.com/file/d/1s9X3Y3I_NPuiQH3XcDvSxXy0Coz9YLKB/view?usp=share_link"

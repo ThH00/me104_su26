@@ -16,12 +16,12 @@ contents:
         title: Set 22 - Impulse Momentum for RB
         description: Impulse Momentum for RB
         link: "https://drive.google.com/file/d/116_8ptZ6PmlEzuNu7fXu4ORFZznopqk4/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1mZG3EnKu2ei8PNAUYXNVUOQJHpWjqyAr/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1mZG3EnKu2ei8PNAUYXNVUOQJHpWjqyAr/view?usp=sharing"
       - type: quiz
         title: Quiz 14
         description: Quiz 14
         link: "https://drive.google.com/file/d/1znJRlsam9_fvExql_QR8ijK2e9VkpWx4/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1kofWcVygMOsF_W6jMnZ9XoQZ6VyZkdez/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1kofWcVygMOsF_W6jMnZ9XoQZ6VyZkdez/view?usp=sharing"
       - type: homework
         title: HW 08 - TBD
         link: "https://drive.google.com/file/d/1hDp2QectLgGx4C8dnXimnmZgZOdFH771/view?usp=sharing"
@@ -40,7 +40,7 @@ contents:
         title: Set 23 - Work-Energy Theorem for RB
         description: Work-Energy Theorem for RB
         link: "https://drive.google.com/file/d/1Rm52iKlLwpMrStha4w3dxqBGBs0OYq9c/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1rO1HAFLV2HsdBgl6X2SSR4lMgqo_-e8z/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1rO1HAFLV2HsdBgl6X2SSR4lMgqo_-e8z/view?usp=sharing"
       - type: lecture_video
         title: Introducing the work-energy theorem of a rigid body
         link: "https://youtu.be/acmYFwl8rRo?si=s4NJ5lJKfXNWWTzD"

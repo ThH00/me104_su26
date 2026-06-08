@@ -12,12 +12,12 @@ contents:
         title: Set 12 - Momenta and Impulses for a Particle
         description: Momenta and Impulses for a Particle
         link: "https://drive.google.com/file/d/1k9Gtt8JDXRPBOS6h7JQ-CflW7D-ezmMs/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1D3IDI7hp4rkAyXqQ8OacE-UwXup616qn/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1D3IDI7hp4rkAyXqQ8OacE-UwXup616qn/view?usp=sharing"
       - type: problem_set
         title: Set 13 - Collisions
         description: Collisions
         link: "https://drive.google.com/file/d/1qqVB9qko7StO9gHfB7afcszugdpTWWUm/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1D4BQbs4BJH1UKCBvukj_mCSsntnjUEGU/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1D4BQbs4BJH1UKCBvukj_mCSsntnjUEGU/view?usp=sharing"
       - type: lecture_video
         title: 1. (11 min) Linear momentum + conservation
         link: "https://youtu.be/-AHQOYy3VBk"
@@ -80,12 +80,12 @@ contents:
         title: Set 14 - System of particles
         description: System of particles
         link: "https://drive.google.com/file/d/10UP8-vFO3O7hn9SAsMbdamq7XpcNgILw/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1D4UUM7nXvnSJtFTS7EvNb4c44McrUA6z/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1D4UUM7nXvnSJtFTS7EvNb4c44McrUA6z/view?usp=sharing"
       - type: quiz
         title: Quiz 8
         description: Quiz 8
         link: "https://drive.google.com/file/d/13FUUqvWx33IMZhJkMmsKBSMkaDVGky4U/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1JN4GXoADfo_000ErF4yNAQ1gRl5Y-CSQ/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1JN4GXoADfo_000ErF4yNAQ1gRl5Y-CSQ/view?usp=sharing"
       - type: homework
         title: HW 05 - orbital mechanics
         link: "https://drive.google.com/file/d/1ChZTfDnsX4_58ugmQE_gJdRsG-Rmqqeb/view?usp=share_link"

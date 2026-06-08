@@ -13,7 +13,7 @@ contents:
         title: Set 11 - Power, Work and Energy
         description: Power, Work and Energy
         link: "https://drive.google.com/file/d/1WB9MIlmOi6AQ2R5Perhf5mRFoWb9DuHB/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1D13QKwk_by1qZ1BfLU4vpF8-n1opbhDZ/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1D13QKwk_by1qZ1BfLU4vpF8-n1opbhDZ/view?usp=sharing"
       - type: lecture_video
         title: Gravitation force model
         link: "https://www.youtube.com/watch?v=nHnDuCWtacY"
@@ -21,7 +21,7 @@ contents:
         title: Quiz 6
         description: Quiz 6
         link: "https://drive.google.com/file/d/1PZEX9VVzDaWu4Y9IKYSsAz_bAPdlIQ3m/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/1rFc41UkshCabb6pkUBrHpWROBG4sHV5g/view?usp=share_link"
+        # solution_link: "https://drive.google.com/file/d/1rFc41UkshCabb6pkUBrHpWROBG4sHV5g/view?usp=share_link"
       - type: reading
         title: Conservative forces and their potential
         description: reading
