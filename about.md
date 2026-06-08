@@ -19,12 +19,12 @@ description: >-
 ## Instructor: Theresa Honein
 - Email: theresa_honein at berkeley.edu
 - Lecture: Tu 10:00 am - 12:29 pm and Th 10:00 am - 11:59 am in Tan 180
-- Office Hours: Tu 1-2 pm, Th 12:30-1:30 pm in TBD or by appointment
+- Office Hours: Tu 1-2 pm, Th 12:30-1:30 pm in Etcheverry Hall 6185 or by appointment
 
 ## Teaching Assistant: Meghana Sanjay Rao
 - Email: meghana_sanjay at berkeley.edu
 - Discussion: We 10:00 am - 12:29 pm in Tan 180
-- Office Hours: TBD
+- Office Hours: Monday, 11:00 AM - 12:00 PM (Virtual), Wednesday, 1:00 PM - 2:00 PM in Etcheverry 3117B
 
 ## Class Recordings
 - This class is optimized for in-person, not remote learning.

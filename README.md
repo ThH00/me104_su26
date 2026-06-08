@@ -9,11 +9,10 @@ seo:
 ---
 
 # Lecture Notes
-You can access the lecture notes [here](???).
+You can access the lecture notes [here](https://mech230.github.io/notes/). I am constantly working on fixing and updating these notes.
 
 # Gradescope
-All the homework is posted on and submitted through [Gradescope](???).
-
+All the homework is posted on and submitted through Gradescope.
 
 # Exam Schedule
 
