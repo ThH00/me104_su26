@@ -7,19 +7,24 @@ contents:
         topics:
           - Overview of syllabus and website
           - Dynamics - an overview
-          - Vector calculus - a summary
           - Free body diagrams
+          - Vector calculus - a summary
           - Velocity, position, acceleration, arc-length
+      - type: problem_set
+        title: Set 00 - Free Body Diagrams
+        description: Free Body Diagrams
+        link: "https://drive.google.com/file/d/1O0GQAQgap7zmYXKqCFdwrQusFFubknuf/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1d41qWskPULKDfTR4Pt7npDXmUoTWdT0M/view?usp=sharing"
       - type: problem_set
         title: Set 01 - Vector Calculus
         description: Vector Calculus
-        link: "https://drive.google.com/file/d/1ETBITc8JdvdtBQaS2U5su6DyOIOmNKsi/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/13IL5Svxqon3HTOsPTS8voiaXiEv0oHo5/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1qnq5EuZnjdJbZWt4mcpIcTd0IrYUDa0Y/view?usp=sharing"
+        # solution_link: "??"
       - type: problem_set
         title: Set 02 - Units
         description: Units
-        link: "https://drive.google.com/file/d/1r6q_qWjyLFCUdqdvwQcWk9trG4rHoF1C/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/1QlGUvf4yFsTeQ23hg9sclKrxT2aviEQa/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1Y1WZe8S2MGb3fW87ZIiNCN4LodmSKZ8r/view?usp=sharing"
+        # solution_link: "??"
       - type: reading
         title: Read chapter 1 of Introduction to Solid Mechanics - An Integrated Approach by Lubliner and Papadopoulos.
         description: reading
@@ -27,20 +32,15 @@ contents:
       - type: lecture_video
         title: Introduction to Dynamics by Dr. Joseph Bakarji
         link: "https://www.youtube.com/watch?v=icrTzMozNgo"
-      - type: quiz
-        title: Quiz 1
-        description: Quiz 1
-        link: "https://drive.google.com/file/d/1Ja3--SXbGbXwp9ELbb0WPnhjJjETWmHK/view?usp=share_link"
-        # solution_link: "https://drive.google.com/file/d/1smciQBL2azdKz9Gl5okRA80f7bLLLH8H/view?usp=share_link"
 
   - date: 2026-06-10
     items:
       - type: exercise
         topics:
+          - FBDs practice
           - Problems from Set 01 - Vectors
           - Problems from Set 02 - Units
-          - FBDs practice
-
+          
   - date: 2026-06-11
     items:
       - type: lecture
@@ -50,30 +50,12 @@ contents:
       - type: problem_set
         title: Set 03 - Rectlinear Motion
         description: Rectilinear Motion
-        link: "https://drive.google.com/file/d/12H8pfl29heDaTW-QhMXW7yPHwXGlMQyb/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/1ANIlcNtaWjBVxjcYPhIdw5EJq4IqM851/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1HiU0AbnSdOZmiismxyW6b3vjbxOGLKpj/view?usp=sharing"
+        # solution_link: "??"
       - type: problem_set
         title: Set 04 - BoLM
         description: Vector Calculus
-        link: "https://drive.google.com/file/d/1F4QUVzsbl2mYeqmdno3JuVJw7d2dQsv8/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/1AbkExTXSeqhBSS_81YB_MVPfvXlPGjbM/view?usp=sharing"
-      - type: homework
-        title: HW 01 - Projectile with drag
-        link: "https://drive.google.com/file/d/1Yn84NqvpxOFfLHk5-UrZjdwFv6fIQ11F/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/1JJsYHJWGuDz6H87qZjTKW3Mh9t60hUg_/view?usp=sharing"
-        due_date: 2025-06-20
-      - type: exercise_video
-        title: Problem 03-004
-        link: "https://youtu.be/LAl3ZUiUpus"
-      - type: lecture_video
-        title: Solving differential equations numerically in Python
-        link: "https://youtu.be/RMkMK32vqyM?si=3FpVpoOILf77oe3J"
-      - type: lecture_video
-        title: Animating the motion of a pendulum in Python
-        link: "https://youtu.be/pj7kitk0VcI?si=d-8aW02MytXgkhBs"
-      - type: quiz
-        title: Quiz 2
-        description: Quiz 2
-        link: "https://drive.google.com/file/d/1KFi2hcIaglfPOpEJD4M_AYzh8eaVKY9b/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1AWLlpnF-YEiz4r_ZY2wnDtj9nCCZdk51/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1QQQrL_d9H5fFrvKOxLL8p7XOJ3CPMdrt/view?usp=sharing"
+        # solution_link: "??"
+
 ---

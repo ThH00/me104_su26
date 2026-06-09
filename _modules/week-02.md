@@ -10,8 +10,8 @@ contents:
       - type: problem_set
         title: Set 05 - Cylindrical Polar Coordinates
         description: Cylindrical Polar Coordinates
-        link: "https://drive.google.com/file/d/1gchIpD7picaBbfA8YwRixHLdtHtHeM0m/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/1AvOBsngeI1awPNdgsayvRjYxKiYv2IR0/view?usp=sharing"
+        link: "??"
+        # solution_link: "??"
       - type: problem_set
         title: Set 06 - Constrained Motion
         description: Constrained Motion
