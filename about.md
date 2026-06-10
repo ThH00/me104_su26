@@ -24,7 +24,7 @@ description: >-
 ## Teaching Assistant: Meghana Sanjay Rao
 - Email: meghana_sanjay at berkeley.edu
 - Discussion: We 10:00 am - 12:29 pm in Tan 180
-- Office Hours: Monday, 11:00 AM - 12:00 PM (Virtual), Wednesday, 1:00 PM - 2:00 PM in Etcheverry 3117B
+- Office Hours: Monday, 11:00 AM - 12:00 PM ([Virtual Link](https://meet.google.com/zqb-wied-kev)), Wednesday, 1:00 PM - 2:00 PM in Etcheverry 3117B
 
 ## Class Recordings
 - This class is optimized for in-person, not remote learning.

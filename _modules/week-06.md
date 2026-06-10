@@ -49,30 +49,10 @@ contents:
   
   - date: 2026-07-16
     items:
-      - type: lecture
-        topics:
-          - Rolling and Sliding
-          - Instantaneous Center of Rotation
       - type: quiz
         title: Midterm II
         description: Midterm II
-        link: "https://drive.google.com/file/d/1PoptxxFkwPgxgti8o4a-GRid4FVxc99b/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/1qlH-nAS531cRvIq30yFaV9ifPYXjksqK/view?usp=sharing"
-      - type: problem_set
-        title: Set 17 - Rolling and Sliding
-        description: Rolling and Sliding
-        link: "https://drive.google.com/file/d/1TG-p-p5oe03MGBDSplyQve9iaqZs85_e/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1Dl1Zax64CwjlrE-ACekM2AEf0ZkXbD2X/view?usp=sharing"
-      - type: demo
-        title: IC of crank slider
-        link: "https://drive.google.com/file/d/1L8b1ugg4xQuPK5m5tOVo0bzk16HRia5a/view?usp=sharing"
-      - type: quiz
-        title: Quiz 10
-        description: Quiz 10
-        link: "https://drive.google.com/file/d/11Y_pN1rvoL38-ozrkifgvyF-GFE2KXRe/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1dxKkzFiD3zJXxr31iCbWPzcGXMX0Lu-9/view?usp=sharing"
-      - type: homework
-        title: HW 06 - Merry-go-round animation
-        link: "https://drive.google.com/file/d/1s9X3Y3I_NPuiQH3XcDvSxXy0Coz9YLKB/view?usp=share_link"
-        due_date: 2025-07-25
+        # link: "???"
+        # solution_link: "???"
+
 ---
