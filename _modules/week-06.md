@@ -11,41 +11,23 @@ contents:
       - type: problem_set
         title: Set 15 - Kinematics of Rigid Bodies
         description: Kinematics of Rigid Bodies
-        link: "https://drive.google.com/file/d/1ly3MSTed2wXnHuEySQlLuawF8KSgCQap/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/1DYtGU7qQpwb_kMelhRqc25XkwvtMbYQV/view?usp=sharing"
+        link: "???"
+        # solution_link: "???"
       - type: problem_set
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
-        link: "https://drive.google.com/file/d/1HVbTJD8fqiG_8RTUu4BO4BnaaIzT8-1f/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/1DT7o3JM29v_CRzUxBSlhVtdLj_6JfjxN/view?usp=sharing"
-      - type: reading
-        title: Lecture notes on rigid body kinematics
-        description: reading
-        link: "https://drive.google.com/file/d/1rt5DSxVMmZnwdI5kQO6EvpRmijnrSQ94/view?usp=sharing"
-      - type: quiz
-        title: Quiz 9.1 Tensor Product
-        description: Quiz 9.1 Tensor Product
-        link: "https://drive.google.com/file/d/1U5icQwJPlcJmDEnLGDbzH4qMi9L3GF-I/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/1rK_ihsNoITPUDhwNs016NTsg-spxAEPv/view?usp=sharing"
-      - type: quiz
-        title: Quiz 9.2 Velocity Analysis
-        description: Quiz 9.2 Velocity Analysis
-        link: "https://drive.google.com/file/d/1_6EWX8nkgP1NufdGMUIMXuGhryE22YMb/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/1ypiwcQYJjEO4eUdlv0UcMNg3vebyR-oq/view?usp=sharing"
+        link: "???"
+        # solution_link: "???"
 
-  # - date: 2026-07-16
-  #   items:
-  #     - type: exercise
-  #       topics:
-  #         - Midterm II preparation - Energy, collisions, conservation of angular and linear momentum, rigid body kinematics
-  #     - type: problem_set
-  #       title: Discussion 06 Notes and Extra Problems for Midterm II
-  #       description: Energy, collisions, cons. of angular and linear mtm., RBK
-  #       link: "https://drive.google.com/file/d/1jThS9W5IblEJ7ZUv_HYWMLDy4OIsZvGd/view?usp=sharing"
-  #       solution_link: "https://drive.google.com/file/d/1HPrYf9rktofdmevKTM6vNjDUhawR9Gww/view?usp=sharing"
-  #     - type: lecture_video
-  #       title: Discussion 06 Recording Canvas Link
-  #       link: "https://bcourses.berkeley.edu/courses/1545207/external_tools/90481"
+
+  - date: 2026-07-15
+    items:
+      - type: exercise
+        topics:
+          - Problems from Set 14 - System of particles
+          - Problems from Set 15 - Kinematics of Rigid Bodies
+          - Problems from Set 16 - IC and Motion wrt RB
+          - Midterm II preparation
   
   - date: 2026-07-16
     items:

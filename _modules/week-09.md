@@ -15,21 +15,15 @@ contents:
       - type: problem_set
         title: Set 22 - Impulse Momentum for RB
         description: Impulse Momentum for RB
-        link: "https://drive.google.com/file/d/116_8ptZ6PmlEzuNu7fXu4ORFZznopqk4/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/1mZG3EnKu2ei8PNAUYXNVUOQJHpWjqyAr/view?usp=sharing"
-      - type: quiz
-        title: Quiz 14
-        description: Quiz 14
-        link: "https://drive.google.com/file/d/1znJRlsam9_fvExql_QR8ijK2e9VkpWx4/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1kofWcVygMOsF_W6jMnZ9XoQZ6VyZkdez/view?usp=sharing"
-      - type: homework
-        title: HW 08 - TBD
-        link: "https://drive.google.com/file/d/1hDp2QectLgGx4C8dnXimnmZgZOdFH771/view?usp=sharing"
-        due_date: 2025-08-12
+        link: "???"
+        # solution_link: "???"
 
-  # - date: 2025-08-06
-  #   items:
-  #     - type: exercise
+  - date: 2026-08-05
+    items:
+      - type: exercise
+        topics:
+          - Problems from Set 21 - General Plane Motion
+          - Problems from Set 22 - Impulse Momentum for RB
 
   - date: 2026-08-06
     items:
@@ -39,8 +33,8 @@ contents:
       - type: problem_set
         title: Set 23 - Work-Energy Theorem for RB
         description: Work-Energy Theorem for RB
-        link: "https://drive.google.com/file/d/1Rm52iKlLwpMrStha4w3dxqBGBs0OYq9c/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/1rO1HAFLV2HsdBgl6X2SSR4lMgqo_-e8z/view?usp=sharing"
+        link: "???"
+        # solution_link: "???"
       - type: lecture_video
         title: Introducing the work-energy theorem of a rigid body
         link: "https://youtu.be/acmYFwl8rRo?si=s4NJ5lJKfXNWWTzD"
@@ -53,11 +47,5 @@ contents:
       - type: lecture_video
         title: Deriving the work-energy theorem for a rigid body
         link: "https://youtu.be/vCROTYHJRow?si=pZfkxNbll5eh7nlh"
-      - type: exercise_video
-        title: Problem 06-118
-        link: "https://youtu.be/-jdslhyHAIY"
-      - type: quiz
-        title: Quiz 15
-        description: Quiz 15
-        link: "??"
+
 ---

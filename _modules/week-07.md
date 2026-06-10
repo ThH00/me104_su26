@@ -3,31 +3,22 @@ title: Week 07
 contents:
   - date: 2026-07-21
     items:
-      - type: problem_set
-        title: Set 17 - Rolling and Sliding
-        description: Rolling and Sliding
-        link: "https://drive.google.com/file/d/1TG-p-p5oe03MGBDSplyQve9iaqZs85_e/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1Dl1Zax64CwjlrE-ACekM2AEf0ZkXbD2X/view?usp=sharing"
-      - type: demo
-        title: IC of crank slider
-        link: "https://drive.google.com/file/d/1L8b1ugg4xQuPK5m5tOVo0bzk16HRia5a/view?usp=sharing"
-      - type: quiz
-        title: Quiz 10
-        description: Quiz 10
-        link: "https://drive.google.com/file/d/11Y_pN1rvoL38-ozrkifgvyF-GFE2KXRe/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1dxKkzFiD3zJXxr31iCbWPzcGXMX0Lu-9/view?usp=sharing"
-      - type: homework
-        title: HW 06 - Merry-go-round animation
-        link: "https://drive.google.com/file/d/1s9X3Y3I_NPuiQH3XcDvSxXy0Coz9YLKB/view?usp=share_link"
-        due_date: 2025-07-25
       - type: lecture
         topics:
           - Moments of Inertia
       - type: problem_set
+        title: Set 17 - Rolling and Sliding
+        description: Rolling and Sliding
+        link: "???"
+        solution_link: "???"
+      - type: demo
+        title: IC of crank slider
+        link: "https://drive.google.com/file/d/1L8b1ugg4xQuPK5m5tOVo0bzk16HRia5a/view?usp=sharing"
+      - type: problem_set
         title: Set 18 - Moments of Inertia
         description: Moments of Inertia
-        link: "https://drive.google.com/file/d/1FrStbQBfU1WJdupAxwplOqCcVOlT1MDA/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/1iN0FetsAtBIxk-U-Wbx5OrG9wvbsJAxG/view?usp=sharing"
+        link: "???"
+        # solution_link: "???"
       - type: lecture_video
         title: Center of mass and linear momentum of a rigid body
         link: "https://youtu.be/101EriK4HIQ"
@@ -52,25 +43,14 @@ contents:
       - type: demo
         title: Cylinders Rolling Down Incline - Professor Walter Lewin
         link: "https://www.youtube.com/watch?v=M_YCWDXCwZM&t=152s"
-      - type: reading
-        title: Notes pdf
-        link: "https://drive.google.com/file/d/1zuL3YSqawy5FtvICplTMBMHMxdpmpIBx/view?usp=sharing"
 
+  - date: 2026-07-22
+    items:
+      - type: exercise
+        topics:
+          - Problems from Set 17 - Rolling and Sliding
+          - Problems from Set 18 - Moments of Inertia
 
-
-  # - date: 2025-07-23
-  #   items:
-  #     - type: exercise
-  #       topics:
-  #         - Rolling, slipping
-  #         - Relative motion of particles with respect to a rigid body
-  #     - type: problem_set
-  #       title: Discussion 7 Problems + Useful Reference Sheet on Rigid Body Dynamics
-  #       link: "https://drive.google.com/file/d/1r4mcrdex59m3rWJWjxhK85bionFg1IKr/view?usp=sharing"
-  #       solution_link: "https://drive.google.com/file/d/111vE5wwDvnPegxHbWRJUp16KfyCxrH3G/view?usp=sharing"
-  #     - type: lecture_video
-  #       title: link to canvas bcourses - recording published, but mic battery died at the end
-  #       link: "https://bcourses.berkeley.edu/courses/1545207/external_tools/90481"
 
   - date: 2026-07-23
     items:
@@ -81,19 +61,15 @@ contents:
       - type: problem_set
         title: Set 19 - RB Translation
         description: RB Translation
-        link: "https://drive.google.com/file/d/1F-MeHorwTKtKI9ve2Uu4VWNxyBTFdleE/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/14S0BR2-A_GlcxXXKkOnYt0n7OOq07Yas/view?usp=sharing"
+        link: "???"
+        # solution_link: "???"
       - type: reading
         title: Moments of inertia of common shapes
         link: "https://drive.google.com/file/d/1DxU3drUxiPzQgW9u-QsdPsVf8NP3gh6U/view?usp=sharing"
       - type: reading
         title: Derivation of the parallel axis theorem
         link: "https://drive.google.com/file/d/17k7Nb27wuspZUZosNP3G7_aEwLI8b4mq/view?usp=sharing"
-      - type: quiz
-        title: Quiz 11
-        description: Quiz 11
-        link: "https://drive.google.com/file/d/1Ky9DZ4Fn-geJvrXK9Y1v8sPLxxLcToIT/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1_bJXS9d_U8lUpPjtsZMDv5luIbqi1QMu/view?usp=sharing"
+
 ---
       
       
