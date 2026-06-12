@@ -26,7 +26,7 @@ schedule:
       - name: Meghana Office Hours
         start: 11:00 AM
         end: 12:00 PM
-        location: [Virtual Link](https://meet.google.com/zqb-wied-kev)
+        location: Virtual # [Virtual Link](https://meet.google.com/zqb-wied-kev)
   - name: Tuesday
     events:
       - name: Lecture
