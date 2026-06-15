@@ -59,4 +59,8 @@ schedule:
         location: Etcheverry Hall 6185
   - name: Friday
     events:
+      - name: Atale Office Hours
+          start: 12:00 PM
+          end: 1:00 PM
+          location: Etcheverry Hall 3117B
 ---
