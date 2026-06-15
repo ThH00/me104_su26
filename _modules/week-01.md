@@ -14,17 +14,17 @@ contents:
         title: Set 00 - Free Body Diagrams
         description: Free Body Diagrams
         link: "https://drive.google.com/file/d/1O0GQAQgap7zmYXKqCFdwrQusFFubknuf/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1d41qWskPULKDfTR4Pt7npDXmUoTWdT0M/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1d41qWskPULKDfTR4Pt7npDXmUoTWdT0M/view?usp=sharing"
       - type: problem_set
         title: Set 01 - Vector Calculus
         description: Vector Calculus
         link: "https://drive.google.com/file/d/1qnq5EuZnjdJbZWt4mcpIcTd0IrYUDa0Y/view?usp=sharing"
-        # solution_link: "??"
+        solution_link: "https://drive.google.com/file/d/1_W-3RiSispCPdZ7xQNaUx75qNdkXlDC7/view?usp=sharing"
       - type: problem_set
         title: Set 02 - Units
         description: Units
         link: "https://drive.google.com/file/d/1Y1WZe8S2MGb3fW87ZIiNCN4LodmSKZ8r/view?usp=sharing"
-        # solution_link: "??"
+        solution_link: "https://drive.google.com/file/d/1Qw42RaT52OeyW4SyjwusKL43C1C7OS1J/view?usp=sharing"
       - type: reading
         title: Read chapter 1 of Introduction to Solid Mechanics - An Integrated Approach by Lubliner and Papadopoulos.
         description: reading
@@ -51,7 +51,7 @@ contents:
         title: Set 03 - Rectlinear Motion
         description: Rectilinear Motion
         link: "https://drive.google.com/file/d/1HiU0AbnSdOZmiismxyW6b3vjbxOGLKpj/view?usp=sharing"
-        # solution_link: "??"
+        solution_link: "https://drive.google.com/file/d/1nxjEsY825RZiD8iPegZwsekJBA700Kx1/view?usp=sharing"
       - type: problem_set
         title: Set 04 - BoLM
         description: Vector Calculus
