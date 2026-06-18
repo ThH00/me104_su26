@@ -11,12 +11,12 @@ contents:
         title: Set 05 - Cylindrical Polar Coordinates
         description: Cylindrical Polar Coordinates
         link: "https://drive.google.com/file/d/1DY-cvW2zs8nbB2dCOiKcIAcaAQIuDVgg/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1IRpDDw79asqE6EDbN10STpRD32l4zZiT/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1IRpDDw79asqE6EDbN10STpRD32l4zZiT/view?usp=sharing"
       - type: problem_set
         title: Set 06 - Constrained Motion
         description: Constrained Motion
         link: "https://drive.google.com/file/d/1xa_rVPvYaKmpYoGwf76VHatxkUxViCzf/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/17Udgc1Q1tJzDs-xVUrfGyD8R523BpKrl/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/17Udgc1Q1tJzDs-xVUrfGyD8R523BpKrl/view?usp=sharing"
 
   - date: 2026-06-17
     items:

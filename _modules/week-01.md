@@ -56,6 +56,6 @@ contents:
         title: Set 04 - BoLM
         description: Vector Calculus
         link: "https://drive.google.com/file/d/1QQQrL_d9H5fFrvKOxLL8p7XOJ3CPMdrt/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1S0AB5HA06MjeNwnmTAyEqt6gbtG-7m7_/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1S0AB5HA06MjeNwnmTAyEqt6gbtG-7m7_/view?usp=sharing"
 
 ---
