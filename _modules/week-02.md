@@ -32,12 +32,12 @@ contents:
       - type: lecture
         topics:
           - The Serret-Frenet Basis
-          - The Serret-Frenet Triad (Curvature of a plane curve)
+          - Friction
       - type: problem_set
         title: Set 07 - Serret Frenet Basis
         description: The Serret-Frenet Triad (Kinematics and kinetics)
         link: "https://drive.google.com/file/d/1NaQ-Y2EQa4SJZU6vuQc9hWP7_weQ1Ejc/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/11RrHc189eCZWKJ8bZqMi3fJBy3suzmxY/view?usp=sharing" 
+        solution_link: "https://drive.google.com/file/d/11RrHc189eCZWKJ8bZqMi3fJBy3suzmxY/view?usp=sharing" 
       - type: problem_set
         title: Set 08 - Relative motion & Corotational Bases
         description: Relative motion between translating rigid bodies
