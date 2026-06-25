@@ -39,6 +39,9 @@ contents:
           - Problems from Set 08 - Relative motion & Corotational Bases
           - Problems from Set 09 - Linear springs
           - Problems from Set 10 - Friction
+      - type: reading
+        title: Discussion 03 Solutions
+        link: "https://drive.google.com/file/d/1oUvzOoIL55w3ZaXb4P3GZWuZtcvjosFt/view?usp=sharing"
       - type: problem_set
         title: Extra problems (prepared by Ekaterina Antimirova)
         link: "https://drive.google.com/file/d/1cqCmfA4vL1MBHZiMzwvJRSov3JMWXm2w/view?usp=sharing"
