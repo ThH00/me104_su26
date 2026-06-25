@@ -26,6 +26,9 @@ contents:
           - Problems from Set 04 - BoLM
           - Problems from Set 05 - Cylindrical Coordinates
           - Problems from Set 06 - Constrained motion
+      - type: reading
+        title: Discussion 02 Solutions
+        link: "https://drive.google.com/file/d/1N2cmefFa2sUXCjiH241zUUCjrFQb_WCt/view?usp=sharing" 
 
   - date: 2026-06-18
     items:
