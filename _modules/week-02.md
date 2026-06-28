@@ -45,22 +45,6 @@ contents:
         title: Set 08 - Relative motion & Corotational Bases
         description: Relative motion between translating rigid bodies
         link: "https://drive.google.com/file/d/1nlcOmX9dIdeGhYU1bCx8zK3YfCHC7xSr/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/178ehvGjQSrO-nL6MgOqT_OOl7CV7vEe3/view?usp=sharing"
-      - type: reading
-        title: See the animations in the Wikipedia page of the Serret-Frenet basis
-        description: reading
-        link: "https://en.wikipedia.org/wiki/Frenet–Serret_formulas"
-      - type: demo
-        title: Serret-Frenet basis on bobsled
-        link: "https://youtu.be/0ACqRREH180"
-      - type: demo
-        title: Serret-Frenet basis and osculating circle on 3D curve by Troy Henderson
-        link: "https://www.youtube.com/shorts/NyphZOJggFk"
-      - type: demo
-        title: Check out the animations on the MECH230 Youtube channel
-        link: "https://www.youtube.com/@mech230demos"
-      - type: lecture_video
-        title: A derivation of the Serret-Frenet formulae
-        link: "https://youtu.be/OB13c0WlUSg"
+        solution_link: "https://drive.google.com/file/d/178ehvGjQSrO-nL6MgOqT_OOl7CV7vEe3/view?usp=sharing"
 
 ---

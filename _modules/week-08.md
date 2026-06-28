@@ -9,8 +9,8 @@ contents:
       - type: problem_set
         title: Set 20 - Fixed Point Rotation
         description: Fixed Point Rotation
-        link: "???"
-        # solution_link: "???"
+        link: "https://drive.google.com/file/d/1RO2rbKONFG6uJSv7aNFtskbGD-2EenHM/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1sX0wemboZzXuEIhPbJxnfI58hug4IruJ/view?usp=sharing"
 
 
   - date: 2025-07-29
@@ -29,7 +29,7 @@ contents:
       - type: problem_set
         title: Set 21 - General Plane Motion
         description: General Plane Motion
-        link: "???"
-        # solution_link: "???"
+        link: "https://drive.google.com/file/d/13cbfKfGx3PeVPj-dK1IsjuG3uXZJ5_qs/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1bDUvgLKfnqWys1_7sbraBKsgSlyb7Dwt/view?usp=sharing"
 
 ---

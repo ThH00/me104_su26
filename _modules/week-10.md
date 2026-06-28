@@ -5,7 +5,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Review
+          - Introduction to Larangian Mechanics
 
   - date: 2026-08-12
     items:

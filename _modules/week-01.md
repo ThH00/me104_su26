@@ -25,13 +25,6 @@ contents:
         description: Units
         link: "https://drive.google.com/file/d/1Y1WZe8S2MGb3fW87ZIiNCN4LodmSKZ8r/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1Qw42RaT52OeyW4SyjwusKL43C1C7OS1J/view?usp=sharing"
-      - type: reading
-        title: Read chapter 1 of Introduction to Solid Mechanics - An Integrated Approach by Lubliner and Papadopoulos.
-        description: reading
-        link: "https://link.springer.com/book/10.1007/978-1-4614-6768-7"
-      - type: lecture_video
-        title: Introduction to Dynamics by Dr. Joseph Bakarji
-        link: "https://www.youtube.com/watch?v=icrTzMozNgo"
 
   - date: 2026-06-10
     items:

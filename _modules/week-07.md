@@ -9,16 +9,16 @@ contents:
       - type: problem_set
         title: Set 17 - Rolling and Sliding
         description: Rolling and Sliding
-        link: "???"
-        solution_link: "???"
+        link: "https://drive.google.com/file/d/1DqY19OxOK4w5fZoHPN1m0xGu3sKCZ6vH/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1uuv1pGFZA5On3jKSlXbSO2AAQ0NevWBY/view?usp=sharing"
       - type: demo
         title: IC of crank slider
         link: "https://drive.google.com/file/d/1L8b1ugg4xQuPK5m5tOVo0bzk16HRia5a/view?usp=sharing"
       - type: problem_set
         title: Set 18 - Moments of Inertia
         description: Moments of Inertia
-        link: "???"
-        # solution_link: "???"
+        link: "https://drive.google.com/file/d/1akI1BfIf33avpMugErpz9lCSEJ0ZrB2N/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1uH0fPDwCdG889dqWK5WtXjD_jY6uTeOM/view?usp=sharing"
       - type: lecture_video
         title: Center of mass and linear momentum of a rigid body
         link: "https://youtu.be/101EriK4HIQ"
@@ -61,8 +61,8 @@ contents:
       - type: problem_set
         title: Set 19 - RB Translation
         description: RB Translation
-        link: "???"
-        # solution_link: "???"
+        link: "https://drive.google.com/file/d/1lUYLezi9kt1jNhf7nx3437geVDz7fA4C/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1E9XtpOAvp0-dZi5mJ6beZNnVM4E_Pkgg/view?usp=sharing"
       - type: reading
         title: Moments of inertia of common shapes
         link: "https://drive.google.com/file/d/1DxU3drUxiPzQgW9u-QsdPsVf8NP3gh6U/view?usp=sharing"

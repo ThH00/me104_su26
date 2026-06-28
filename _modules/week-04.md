@@ -12,8 +12,8 @@ contents:
       - type: problem_set
         title: Set 11 - Power, Work and Energy
         description: Power, Work and Energy
-        link: "??"
-        # solution_link: "??"
+        link: "https://drive.google.com/file/d/1BtsgvUa1AV7Wry2zmQfLgC0RjyEskzKl/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1SVDOrCstCCwJifQSRlRVufA3RGqxZ6eL/view?usp=sharing"
       - type: lecture_video
         title: Gravitation force model
         link: "https://www.youtube.com/watch?v=nHnDuCWtacY"
@@ -29,6 +29,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - TBD
+          - Definitions of power, work and kinetic energy cont.
+          - Orbital Mechanics
           
 ---

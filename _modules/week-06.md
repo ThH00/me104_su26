@@ -11,13 +11,13 @@ contents:
       - type: problem_set
         title: Set 15 - Kinematics of Rigid Bodies
         description: Kinematics of Rigid Bodies
-        link: "???"
-        # solution_link: "???"
+        link: "https://drive.google.com/file/d/1y4fLnUefBzjEJ0cfWuADs7nJoh9GjuNg/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1GjixgSDgSx5ig4kWuX2EZyb6IvmOApeq/view?usp=sharing"
       - type: problem_set
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
-        link: "???"
-        # solution_link: "???"
+        link: "https://drive.google.com/file/d/1Z7FJFfJy0BaGR3ENf0IavIY9KCIQJsLF/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1gRobkiXuRkLQFF1_LFdJN4Lrl6eVn1C1/view?usp=sharing"
 
 
   - date: 2026-07-15
