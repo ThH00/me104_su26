@@ -14,9 +14,6 @@ contents:
         description: Power, Work and Energy
         link: "https://drive.google.com/file/d/1BtsgvUa1AV7Wry2zmQfLgC0RjyEskzKl/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1SVDOrCstCCwJifQSRlRVufA3RGqxZ6eL/view?usp=sharing"
-      - type: lecture_video
-        title: Gravitation force model
-        link: "https://www.youtube.com/watch?v=nHnDuCWtacY"
 
   - date: 2026-07-01
     items:
