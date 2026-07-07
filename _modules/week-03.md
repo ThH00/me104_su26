@@ -39,7 +39,5 @@ contents:
       - type: quiz
         title: Midterm I
         description: Midterm I
-        # link: "???"
-        # solution_link: "??"
       
 ---
