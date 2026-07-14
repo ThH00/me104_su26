@@ -10,7 +10,7 @@ contents:
         title: Set 14 - System of particles
         description: System of particles
         link: "https://drive.google.com/file/d/1aWKy2DpjVgZHjpaSYiHqt-O8nUyNY0Ko/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1Edf4M6l2uakA0o6nnk0QVbeRkIsC0ZFU/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1Edf4M6l2uakA0o6nnk0QVbeRkIsC0ZFU/view?usp=sharing"
 
 
   - date: 2026-07-08
@@ -34,6 +34,6 @@ contents:
         title: Set 15 - Kinematics of Rigid Bodies
         description: Kinematics of Rigid Bodies
         link: "https://drive.google.com/file/d/1y4fLnUefBzjEJ0cfWuADs7nJoh9GjuNg/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1GjixgSDgSx5ig4kWuX2EZyb6IvmOApeq/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1GjixgSDgSx5ig4kWuX2EZyb6IvmOApeq/view?usp=sharing"
 
 ---
