@@ -19,7 +19,10 @@ contents:
         topics:
           - Problems from Set 12 - Momenta and Impulses for a Particle
           - Problems from Set 13 - Collisions
-
+      - type: reading
+        title: Discussion 05 Solutions
+        link: "https://drive.google.com/file/d/1BLE-6Atoz3F8JjknRaSXtoAQS3wHmw7O/view?usp=sharing"
+      
 
   - date: 2026-07-09
     items:
