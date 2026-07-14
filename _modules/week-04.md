@@ -27,6 +27,9 @@ contents:
         topics:
           - Correcting Midterm 1
           - Problems from Set 11 - Power, Work and Energy
+      - type: reading
+        title: Discussion 04 Solutions
+        link: "https://drive.google.com/file/d/1wzDmKO9Cr0_c2LatOc1Egu9tByTzmaKO/view?usp=sharing"
 
   - date: 2026-07-02
     items:
