@@ -21,6 +21,9 @@ contents:
           - Problems from Set 15 - Kinematics of Rigid Bodies
           - Problems from Set 16 - IC and Motion wrt RB
           - Midterm II preparation
+      - type: reading
+        title: Discussion 06 Solutions
+        link: "https://drive.google.com/file/d/1n5UhMGxvI7_vinjnQWazxIDsVunahuxB/view?usp=sharing"
   
   - date: 2026-07-16
     items:
