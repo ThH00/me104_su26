@@ -10,7 +10,7 @@ contents:
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
         link: "https://drive.google.com/file/d/1Z7FJFfJy0BaGR3ENf0IavIY9KCIQJsLF/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1gRobkiXuRkLQFF1_LFdJN4Lrl6eVn1C1/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1gRobkiXuRkLQFF1_LFdJN4Lrl6eVn1C1/view?usp=sharing"
 
 
   - date: 2026-07-15
@@ -30,7 +30,5 @@ contents:
       - type: quiz
         title: Midterm II
         description: Midterm II
-        # link: "???"
-        # solution_link: "???"
 
 ---
