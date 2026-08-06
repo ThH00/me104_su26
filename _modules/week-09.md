@@ -10,7 +10,7 @@ contents:
         title: Set 22 - Impulse Momentum for RB
         description: Impulse Momentum for RB
         link: "https://drive.google.com/file/d/12zC-HXe7rJ5k2Kt2smm-J3UX4hbO56NV/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1JdLBsRd45pqmGW3w2a_GD_A4SDZPQMQh/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1JdLBsRd45pqmGW3w2a_GD_A4SDZPQMQh/view?usp=sharing"
 
   - date: 2026-08-05
     items:
@@ -28,6 +28,6 @@ contents:
         title: Set 23 - Work-Energy Theorem for RB
         description: Work-Energy Theorem for RB
         link: "https://drive.google.com/file/d/1bRf1JW1IfMyEwdMm1qiRFtr_bjBdX8Th/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/10QqAM-GK4dmu7uuhAWppUU1BIVKB0Vpx/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/10QqAM-GK4dmu7uuhAWppUU1BIVKB0Vpx/view?usp=sharing"
 
 ---
