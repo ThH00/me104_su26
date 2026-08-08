@@ -19,6 +19,9 @@ contents:
         topics:
           - Problems from Set 19 - RB Translation
           - Problems from Set 20 - Fixed Point Rotation
+      - type: reading
+        title: Discussion 08 Solutions
+        link: "https://drive.google.com/file/d/1wkfm80Fm1GoA_TqsbyR_z1xQhgyksrkq/view?usp=sharing"
         
 
   - date: 2026-07-30
