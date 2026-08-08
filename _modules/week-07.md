@@ -23,6 +23,9 @@ contents:
         topics:
           - Problems from Set 17 - Rolling and Sliding
           - Problems from Set 18 - Moments of Inertia
+      - type: reading
+        title: Discussion 07 Solutions
+        link: "https://drive.google.com/file/d/1A9QJGUm5iinL6jyMMqek39C-iFprxMbh/view?usp=sharing"
 
 
   - date: 2026-07-23
