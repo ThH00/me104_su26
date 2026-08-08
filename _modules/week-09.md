@@ -19,7 +19,7 @@ contents:
           - Problems from Set 21 - General Plane Motion
           - Problems from Set 22 - Impulse Momentum for RB
       - type: reading
-        title: Discussion 08 Solutions
+        title: Discussion 09 Solutions
         link: "https://drive.google.com/file/d/15F90hH7QVUzNzYiccpkCPS5U2UNeeD_u/view?usp=sharing"
 
   - date: 2026-08-06
